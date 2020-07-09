@@ -1,0 +1,17 @@
+7
+foo,bar,baz,mud
+foo,bar,baz
+*,bar,baz,mud
+foo,bar,*,*
+*,bar,*
+foo,*,*
+*,*,baz
+7
+/foo/bar/baz/mud/
+foo/bar/baz
+foo/bar/blood/wazahoo/foo/bar/baz
+foo/bar/
+/foo/bar/enantiomer
+elephant/bar/nave
+/foo/bar/illuminate/dressage
+/excess/more/than/seven/
