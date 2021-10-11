@@ -1,0 +1,6 @@
+label: dos
+label-id: 0x6ee67ab8
+device: /dev/xvdf
+unit: sectors
+
+/dev/xvdf1 : start=        2048, size=    41940992, type=83
